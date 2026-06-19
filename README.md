@@ -8,7 +8,7 @@ Estudante de Engenharia de Software na Unijuí.
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/UML-1976D2?style=for-the-badge&logo=uml&logoColor=white" />
   <img src="https://img.shields.io/badge/Camunda-007ACC?style=for-the-badge&logo=camunda&logoColor=white" />
 </p>
