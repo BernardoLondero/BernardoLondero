@@ -25,4 +25,4 @@ Estudante de Engenharia de Software na Unijuí.
 ---
 
 ###  Estatísticas
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoLondero&show_icons=true&theme=radical)
+![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoDevTP&show_icons=true&theme=dark)
